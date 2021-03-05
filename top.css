@@ -1,0 +1,48 @@
+* {
+    background-color:black;
+    color:white;
+}
+    
+header {
+    height:6vw;
+    width:100%;
+}
+.header-logo {
+    height:100%;
+    float: left;
+    margin-right:4vw;
+}
+.header-contents{
+    float: left;
+}
+.header-contents a {
+    font-size:4vw;
+    padding:0px 15px;
+    transition: 1s;
+}
+.header-contents a:hover {
+    background-color: orangered;
+}
+
+main {
+    width:100%;
+}
+.header-wrap {
+    width:100%;
+    margin-top:50px;
+}
+
+footer {
+    background-color: black;
+    width:100%;
+    height: 100px;
+}
+footer p {
+    color:white;
+    padding-top:20px;
+}
+.HP {
+    color:yellow;
+}
+
+
